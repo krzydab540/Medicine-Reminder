@@ -1,0 +1,44 @@
+﻿@model ManualAuth.Models.Pressure
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit result</h1>
+<h5>Pressure</h5>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                Date and time
+                <input asp-for="PressureDateTime" class="form-control" />
+                <span asp-validation-for="PressureDateTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Systolic Pressure
+                <input asp-for="PressureSYSValue" class="form-control" />
+                <span asp-validation-for="PressureSYSValue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Diastolic Pressure
+                <input asp-for="PressureDIAValue" class="form-control" />
+                <span asp-validation-for="PressureDIAValue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

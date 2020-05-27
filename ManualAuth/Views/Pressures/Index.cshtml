@@ -1,0 +1,144 @@
+﻿@model IEnumerable<ManualAuth.Models.Pressure>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>My pressures</h1>
+
+<p>
+    <a asp-action="Create">
+        <input type="submit" value="Add new result" class="btn btn-outline-success" />
+    </a>
+</p>
+
+<thead>
+    <tr>
+        <th>
+            @*Obliczenie i pokazanie statystyk pomiarów ciśnienia. *@
+
+            @{ int systolic = 0;
+                int diastolic = 0;
+
+                double systolic_std = 0;
+                double diastolic_std = 0;
+
+                int count = 0;
+                foreach (var item in Model)
+                {
+                    count++;
+                    systolic += item.PressureSYSValue;
+                    diastolic += item.PressureDIAValue;
+                }
+                if (count > 0)
+                {
+                    systolic /= count;
+                    diastolic /= count;
+
+                    if (count > 1)
+                    {
+                        double sys_calc = 0;
+                        double dia_calc = 0;
+
+                        foreach (var item in Model)
+                        {
+                            sys_calc += Math.Pow(item.PressureSYSValue - systolic, 2);
+                            dia_calc += Math.Pow(item.PressureDIAValue - diastolic, 2);
+
+                        }
+
+                        systolic_std = Math.Sqrt(sys_calc / count - 1);
+                        systolic_std = Math.Round(systolic_std, 3);
+
+                        diastolic_std = Math.Sqrt(dia_calc / count - 1);
+                        diastolic_std = Math.Round(diastolic_std, 3);
+
+
+                    }
+
+                }
+
+
+
+
+            }
+
+        </th>
+
+    </tr>
+</thead>
+
+
+<div class="row" >
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <center>
+                    Mean Systolic Pressure Level:  @systolic
+                    &nbsp;
+                    <br />
+                    Standard Deviation:  @systolic_std
+                </center>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body">
+                <center>
+                    Mean Diastolic Pressure :  @diastolic
+                    &nbsp;
+                    <br />
+                    Standard Deviation:  @diastolic_std
+                </center>                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<table class="table" >
+
+    <thead>
+        <tr>
+            <th>
+                Date and Time
+            </th>
+            <th>
+                Systolic Pressure
+            </th>
+            <th>
+                Diastolic Pressure
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.PressureDateTime.ToString("f")
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PressureSYSValue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PressureDIAValue)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+

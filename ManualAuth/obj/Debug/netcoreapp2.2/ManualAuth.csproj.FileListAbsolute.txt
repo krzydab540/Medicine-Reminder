@@ -1,0 +1,286 @@
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.deps.json
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.json
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.dev.json
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.dll
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csprojAssemblyReference.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CoreCompileInputs.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfoInputs.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfo.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.input.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.output.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorCoreGenerate.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cache
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CopyComplete
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Create.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Delete.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Details.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Edit.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Index.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Create.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Delete.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Details.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Edit.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Index.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Create.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Delete.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Details.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Edit.g.cshtml.cs
+C:\Users\scara\source\repos\ManualAuth\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Index.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.deps.json
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.json
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.dev.json
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.dll
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csprojAssemblyReference.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CoreCompileInputs.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfoInputs.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfo.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.input.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.output.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorCoreGenerate.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Create.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Details.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Index.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Create.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Details.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Index.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Create.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Details.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Index.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cache
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cs
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\Medicine Controller\Previous versions\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CopyComplete
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.deps.json
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.json
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.dev.json
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.dll
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csprojAssemblyReference.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CoreCompileInputs.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfoInputs.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.input.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.output.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorCoreGenerate.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cache
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 4)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CopyComplete
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.deps.json
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.json
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.dev.json
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.dll
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csprojAssemblyReference.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CoreCompileInputs.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfoInputs.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.input.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.output.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorCoreGenerate.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cache
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 5)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CopyComplete
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.deps.json
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.json
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.dev.json
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.dll
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csprojAssemblyReference.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CoreCompileInputs.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfoInputs.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.input.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.output.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorCoreGenerate.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Create.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Delete.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Details.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Edit.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Index.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cache
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cs
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\scara\Desktop\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CopyComplete
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.deps.json
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.json
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.dll
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\bin\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorAssemblyInfo.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.AssemblyInfo.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.input.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.TagHelpers.output.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorCoreGenerate.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Create.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Delete.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Details.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Edit.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Glucoses\Index.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Create.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Delete.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Details.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Edit.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Medicines\Index.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Create.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Delete.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Details.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Edit.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Pressures\Index.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.RazorTargetAssemblyInfo.cs
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.Views.pdb
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.dll
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.pdb
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.genruntimeconfig.cache
+C:\Users\PC\source\repos\ManualAuth (ver 6)\ManualAuth\obj\Debug\netcoreapp2.2\ManualAuth.csproj.CopyComplete

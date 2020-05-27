@@ -1,0 +1,93 @@
+﻿@model IEnumerable<ManualAuth.Models.Medicine>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>My medicines</h1>
+
+<p>
+    <a asp-action="Create">
+
+        <input type="submit" value="Add new medicine " class="btn btn-outline-success" />
+
+    </a>
+</p>
+
+@*Stworzenie tabeli który wyświetla leki pacjenta z podziałem na dni tygodnia*@
+@* Jest strasznie brzydki, ale działa, można poprawić - to jest moment, w którym postanowiłem uczyć się JS *@
+
+
+@foreach (DayOfWeek day in Enum.GetValues(typeof(DayOfWeek)))
+    {
+    <br/>
+        <div class="card">
+
+            <div>
+                <h3>@day</h3>
+            </div>
+
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Medicine and doses
+                        </th>
+                        <th>
+                            User
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Day)
+                        </th>
+                        <th>
+                            Time
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+
+                        if (item.Day == day)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Id_patient)
+                                </td>
+
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Day)
+                                </td>
+                                <td>
+                                    @{
+                                        var minute = item.MinuteOfTaking.ToString();
+                                        if (minute=="0"||minute=="")
+                                        {
+                                            minute = "00";
+                                        }
+                                     }
+
+                                    @Html.DisplayFor(modelItem => item.HourOfTaking):@minute
+                                </td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+
+        </div>
+        <br />
+    }
+
+
+
+
+
