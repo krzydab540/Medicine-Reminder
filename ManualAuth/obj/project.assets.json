@@ -13410,11 +13410,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\ManualAuth (ver 6)\\ManualAuth\\ManualAuth.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Medicine-Reminder\\ManualAuth\\ManualAuth.csproj",
       "projectName": "ManualAuth",
-      "projectPath": "C:\\Users\\PC\\source\\repos\\ManualAuth (ver 6)\\ManualAuth\\ManualAuth.csproj",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Medicine-Reminder\\ManualAuth\\ManualAuth.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\source\\repos\\ManualAuth (ver 6)\\ManualAuth\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Medicine-Reminder\\ManualAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

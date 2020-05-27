@@ -13,13 +13,11 @@
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                @*<label asp-for="GlucoseDateTime" class="control-label"></label>*@
                 Date and time
                 <input asp-for="GlucoseDateTime" class="form-control" />
                 <span asp-validation-for="GlucoseDateTime" class="text-danger"></span>
             </div>
             <div class="form-group">
-                @*<label asp-for="GlucoseValue" class="control-label"></label>*@
                 Glucose level
                 <input asp-for="GlucoseValue" class="form-control" />
                 <span asp-validation-for="GlucoseValue" class="text-danger"></span>

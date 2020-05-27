@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hFs7x2VtKvYum9t0NW7qWJnehAXMom078IwcCu2wJZ+RgpTM97mmUBbDAQTmXsas1DLFa73Hcwq3TTBFy9Qw5A==",
+  "dgSpecHash": "rhlRwqiLQTS3BKC/hj3nU1McYosZYzxhgiKiX4kNd5W/sZSy+zifgEhsQKgPai0EWPSc8LLEPoM5xVQj7dCfMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\ManualAuth (ver 6)\\ManualAuth\\ManualAuth.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Medicine-Reminder\\ManualAuth\\ManualAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\mailkit\\2.2.0\\mailkit.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

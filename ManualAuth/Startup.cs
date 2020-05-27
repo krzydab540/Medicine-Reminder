@@ -43,20 +43,20 @@ namespace ManualAuth
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            // Baza danych. Dodanie kontekstu 
+            // Adding database context
 
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(
             Configuration.GetConnectionString("DefaultConnection")));
 
-            // Dodanie identity, żeby uzywać logowania
+            // Adding identity to implement login
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             services.AddMvc()/*.SetCompatibilityVersion(CompatibilityVersion.Version_2_2)*/;
 
 
-            //TUTAJ WŁĄCZA SIĘ USŁUGA POWIADOMIEŃ
+            // Enable reminder service
             services.AddHostedService<TimeReminderHostedService>();
         }
 
@@ -75,7 +75,7 @@ namespace ManualAuth
                 app.UseHsts();
             }
 
-            //Dodanie Cultures, żeby prawidłowo formatować daty
+            // Add Cultures for proper date and time formatting
 
             IList<CultureInfo> sc = new List<CultureInfo>();
             sc.Add(new CultureInfo("en-US"));
@@ -91,7 +91,7 @@ namespace ManualAuth
             cp.CookieName = "UserCulture"; 
             app.UseRequestLocalization(lo);
 
-            //niezbędne, by używać logowania
+            // necessary to use authentication
             app.UseAuthentication();
 
             app.UseHttpsRedirection();
@@ -107,7 +107,8 @@ namespace ManualAuth
         }
     }
 
-    // Klasa TimeReminderHostedService obsluguje Timer, który liczy pewne interwaly czasu. Przy każdym interwale wywołuje metodę SendNotification, która wyszukuje rekord z bazy,
+    // TimeReminderHostedService has a Timer, which calculates a minute-long intervals. After each one, it  finds medicine records from
+    // database matching current date and time and if found runs SendNotification(), which sends an email via SMTP
     // dla którego należy wysłać powiadomienie
 
 
@@ -136,8 +137,8 @@ namespace ManualAuth
             {
                 var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 
-                // ZŁA METODA: Przy dużej liczbie rekordów będzie długo mielić
-                // Propozycja poprawy: zamienić na LINQ
+                // WRONG METHOD! Should be replaced by LINQ espression, although it works (on small dataset)
+
                 foreach (var item in dbContext.Medicine)
                 {
                     var today = DateTime.Today;
@@ -145,15 +146,10 @@ namespace ManualAuth
 
                     if (item.HourOfTaking==DateTime.Now.Hour&& item.MinuteOfTaking == DateTime.Now.Minute && item.Day==today.DayOfWeek)
                     {
-
+                        // Creating message via template and adressing it to the patient, whose record was matching database.
                         var message = new MimeMessage();
                         message.From.Add(new MailboxAddress("Medicine Reminder", "test.app.kd@gmail.com"));
 
-                        // Na potrzeby prezentacji dwa warianty dodawania odbiorcy do maila: 
-                        // 1. Zakodowanie "Na twardo" swojego adresu email, które następnie zostało zamienione na poprawną implementację, czyli:
-                        // 2. Pobranie przypisanego do rekordu adresu e-mail pacjenta.
-
-                        //message.To.Add(new MailboxAddress("To Add", "krzysztofwozniak1234@gmail.com"));
                         message.To.Add(new MailboxAddress("To Add", item.Id_patient));
                         
                         message.Subject = "Hey! It's time to take your medicine!";
@@ -162,7 +158,7 @@ namespace ManualAuth
                             Text = "Hello, " + item.Id_patient + "! Don't forget to take " + item.Name
                         };
 
-                        // Stworzenie klienta SMTP który wyśle wiadomość
+                        // Create SMTP Client
                         using (var client = new SmtpClient())
                         {
                             client.Connect("smtp.gmail.com", 587, false);
